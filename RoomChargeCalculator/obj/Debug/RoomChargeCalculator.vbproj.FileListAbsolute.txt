@@ -1,0 +1,11 @@
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.exe.config
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.exe
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.pdb
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\bin\Debug\RoomChargeCalculator.xml
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.vbprojResolveAssemblyReference.cache
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.Form1.resources
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.Resources.resources
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.vbproj.GenerateResource.Cache
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.exe
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.xml
+c:\users\will\documents\visual studio 2015\Projects\RoomChargeCalculator\RoomChargeCalculator\obj\Debug\RoomChargeCalculator.pdb
